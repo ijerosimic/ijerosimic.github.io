@@ -1,4 +1,4 @@
-#Personal web page project
+# Personal web page
 
 https://igorjerosimic.netlify.com/
 
