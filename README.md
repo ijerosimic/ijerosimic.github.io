@@ -1,7 +1,6 @@
-# Personal web page
+Personal web page
 
 https://igorjerosimic.netlify.com/
-
 
 
 Online CV
