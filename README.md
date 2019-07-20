@@ -1,4 +1,9 @@
-# ijerosimic.github.io
-Personal page hosted on GitHub
+Personal web page hosted on netlify
 
-https://ijerosimic.github.io/
+https://igorjerosimic.netlify.com/
+
+
+
+CV only hosted on github
+
+https://ijerosimic.github.io/CV.pdf
