@@ -36,10 +36,6 @@ export default {
       {
         text: "GitHub",
         href: "https://github.com/ijerosimic"
-      },
-      {
-        text: "LinkedIn",
-        href: "https://www.linkedin.com/in/ijerosimic/"
       }
     ]
   }),
