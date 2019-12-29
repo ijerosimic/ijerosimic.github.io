@@ -39,7 +39,7 @@ export default {
         },
         {
           group: "Personal experience",
-          stack: ["Node.js", "Vue.js", "RabbitMQ"]
+          stack: ["Node.js", "Vue.js", "RabbitMQ", "xUnit"]
         }
       ]
     };

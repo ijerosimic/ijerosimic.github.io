@@ -4,8 +4,9 @@
       <v-btn flat="flat" @click="$vuetify.goTo('#about')">about</v-btn>
       <v-btn flat="flat" @click="$vuetify.goTo('#skills')">stack</v-btn>
       <v-btn flat="flat" @click="$vuetify.goTo('#contact')">contact me</v-btn>
-      <v-btn flat="flat" href="https://ijerosimic.github.io/CV.pdf" target="_blank">CV</v-btn>
+      <v-btn flat="flat" href="https://ijerosimic.github.io/IgorJerosimic.pdf" target="_blank">CV</v-btn>
       <v-btn flat="flat" href="https://github.com/ijerosimic" target="_blank">GitHub</v-btn>
+      <v-btn flat="flat" href="https://www.linkedin.com/in/ijerosimic/" target="_blank">LinkedIn</v-btn>
     </v-flex>
     <IgorJerosimic msg="Welcome to my personal page." />
     <v-flex xs12 mb-5 mt-5>

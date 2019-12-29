@@ -31,7 +31,11 @@ export default {
     importantLinks: [
       {
         text: "CV",
-        href: "https://ijerosimic.github.io/CV.pdf"
+        href: "https://ijerosimic.github.io/IgorJerosimic.pdf"
+      },
+      {
+        text: "LinkedIn",
+        href: "https://www.linkedin.com/in/ijerosimic/"
       },
       {
         text: "GitHub",
