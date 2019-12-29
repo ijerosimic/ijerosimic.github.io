@@ -11,8 +11,8 @@
         as a software consultant and customer support.
       </p>
       <p class="text-sm-left">
-        At my current position, I work with .NET Core, mostly with Web API, using C# on the back end and Javascript on the front end. The position includes working on all of the layers
-        of the application, from the database to the UI.
+        At my current position, I work with .NET Core, mostly with Web API. The position includes working on all of the layers
+        of the application, from the database to the UI. I use C# on the back end and Javascript on the front end.
       </p>
       <p class="text-sm-left">
         Creating software became my passion, and I’m hungry for knowledge and challenges.
