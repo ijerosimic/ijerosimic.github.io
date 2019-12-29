@@ -2,7 +2,7 @@
   <div id="contact" class="mb-5">
     <h1 class="display-1 font-weight-bold mb-3">Contact me</h1>
     <p>Igor Jerosimić</p>
-    <p>47000 Karlovac</p>
+    <p>Zagreb</p>
     <p>Croatia</p>
     <p @click="email()" id="email">
       <b>igor.jerosimic1@gmail.com</b>
